@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="icon" href="favicon.ico">
+        <title> DrumKit</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+        <link href="drumKit.css" rel="stylesheet">
+        
+    </head>
+    
+    <body>
+        <section id="name">
+            <h1> Drum 🥁 Kit</h1>
+        </section> 
+        
+        <section id="main_body">
+            <button class="w drum">w</button>
+            <button class="a drum">a</button>
+            <button class="s drum">s</button>
+            <button class="d drum">d</button>
+            <button class="j drum">j</button>
+            <button class="k drum">k</button>
+            <button class="l drum">l</button>
+        </section>
+        <footer>
+            <h4><a href="https://en.wikipedia.org/wiki/Drum">Learn about Drums...</a></h4>
+        </footer>
+        <script src="drumKit.js"></script>    
+    </body>
+</html>
